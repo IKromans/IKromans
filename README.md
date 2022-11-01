@@ -1,4 +1,5 @@
-### Hi there 👋, I am Imants! I am from Latvia! I really enjoy helping people, learn new stuff and getting things to work properly is awesome feeling! 👨‍💻
+### Hi there 👋, I am Imants!
+### I am from Latvia! I really enjoy helping people, learn new stuff and getting things to work properly is awesome feeling! 👨‍💻
 
 🧰 Toolbox 
   
@@ -9,7 +10,7 @@
 
 📞 +371 28733821
 
-[<img alt="alt_text" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain-wordmark.svg" />](https://www.linkedin.com/in/imants-kromans/)
+[<img alt="alt_text" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain-wordmark.svg" />](https://www.linkedin.com/in/imants-kromans/)
 
 <!--
 **IKromans/IKromans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
