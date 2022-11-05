@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Imants!
-### I am from Latvia! I really enjoy helping people, learn new stuff and getting things to work properly is awesome feeling! 👨‍💻
+### I am from Latvia! I've got several years of experience working as dental tech, mostly manufactured prosthesis by CAD/CAM 3D modelling and milling or 3D printing. I really enjoy helping people, learn new stuff and getting things to work properly and to help others  is awesome feeling! 👨‍💻
 
 🧰 Toolbox 
   
