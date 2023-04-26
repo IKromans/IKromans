@@ -7,9 +7,6 @@
 
 ✉️ kromans.imants@gmail.com
 
-
-📞 +371 28733821
-
 [<img alt="alt_text" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain-wordmark.svg" />](https://www.linkedin.com/in/imants-kromans/)
 
 <!--
